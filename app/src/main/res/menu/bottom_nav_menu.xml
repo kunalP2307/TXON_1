@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_length"
+        android:title="Length"
+        android:icon="@drawable/ic_length"/>
+
+    <item
+        android:id="@+id/navigation_area"
+        android:title="Area"
+        android:icon="@drawable/ic_area"/>
+
+
+    <item
+        android:id="@+id/navigation_weight"
+        android:title="Weight"
+        android:icon="@drawable/ic_weight"/>
+
+
+    <item
+        android:id="@+id/navigation_tempreture"
+        android:title="Tempreeture"
+        android:icon="@drawable/ic_tempreture"/>
+
+
+    <item
+        android:id="@+id/navigation_time"
+        android:title="Time"
+        android:icon="@drawable/ic_time"/>
+</menu>
